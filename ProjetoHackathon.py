@@ -53,9 +53,9 @@ else:
             print(f"Média: {media:.2f}")
             print(f"Situação: {situacao}")
         else:
-            print("Encerrando.")
+            print("Encerrando. Obrigado por usar a aplicação, criado por Diego Maciel")
     else:
-        print("Encerrando.")
+        print("Encerrando. Obrigado por usar a aplicação, criado por Diego Maciel")
 
 
     
